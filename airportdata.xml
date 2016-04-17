@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <airports>
 	<airport>
-		<name>Huntsville International</name>
+		<name>Huntsville International Airport</name>
 		<shortcode>HSV</shortcode>
 		<city>Huntsville</city>
 		<state>AL</state>
@@ -19,7 +19,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Mobile Regional</name>
+		<name>Mobile Regional Airport</name>
 		<shortcode>MOB</shortcode>
 		<city>Mobile</city>
 		<state>AL</state>
@@ -37,7 +37,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Dothan Regional</name>
+		<name>Dothan Regional Airport</name>
 		<shortcode>DHN</shortcode>
 		<city>Dothan</city>
 		<state>AL</state>
@@ -55,7 +55,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Montgomery Regional</name>
+		<name>Montgomery Regional Airport</name>
 		<shortcode>MGM</shortcode>
 		<city>Montgomery</city>
 		<state>AL</state>
@@ -91,7 +91,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Birmingham-Shuttlesworth International</name>
+		<name>Birmingham-Shuttlesworth International Airport</name>
 		<shortcode>BHM</shortcode>
 		<city>Birmingham</city>
 		<state>AL</state>
@@ -119,7 +119,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Anchorage International</name>
+		<name>Anchorage International Airport</name>
 		<shortcode>ANC</shortcode>
 		<city>Anchorage</city>
 		<state>AK</state>
@@ -147,7 +147,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Fairbanks International</name>
+		<name>Fairbanks International Airport</name>
 		<shortcode>FAI</shortcode>
 		<city>Fairbanks</city>
 		<state>AK</state>
@@ -165,7 +165,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Juneau International</name>
+		<name>Juneau International Airport</name>
 		<shortcode>JNU</shortcode>
 		<city>Juneau</city>
 		<state>AK</state>
@@ -327,7 +327,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Ketchikan International</name>
+		<name>Ketchikan International Airport</name>
 		<shortcode>KTN</shortcode>
 		<city>Ketchikan</city>
 		<state>AK</state>
@@ -530,7 +530,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Phoenix Sky Harbor International</name>
+		<name>Phoenix Sky Harbor International Airport</name>
 		<shortcode>PHX</shortcode>
 		<city>Phoenix</city>
 		<state>AZ</state>
@@ -578,7 +578,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Tucson International</name>
+		<name>Tucson International Airport</name>
 		<shortcode>TUS</shortcode>
 		<city>Tucson</city>
 		<state>AZ</state>
@@ -619,7 +619,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Laughlin/Bullhead International</name>
+		<name>Laughlin/Bullhead International Airport</name>
 		<shortcode>IFP</shortcode>
 		<city>Bullhead City</city>
 		<state>AZ</state>
@@ -691,7 +691,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Yuma International</name>
+		<name>Yuma International Airport</name>
 		<shortcode>NYL</shortcode>
 		<city>Yuma</city>
 		<state>AZ</state>
@@ -727,7 +727,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Show Low Regional</name>
+		<name>Show Low Regional Airport</name>
 		<shortcode>SOW</shortcode>
 		<city>Show Low</city>
 		<state>AZ</state>
@@ -763,7 +763,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Northwest Arkansas Regional</name>
+		<name>Northwest Arkansas Regional Airport</name>
 		<shortcode>XNA</shortcode>
 		<city>Highfill</city>
 		<state>AR</state>
@@ -781,7 +781,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Fort Smith Regional</name>
+		<name>Fort Smith Regional Airport</name>
 		<shortcode>FSM</shortcode>
 		<city>Ft Smith</city>
 		<state>AR</state>
@@ -799,7 +799,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Texarkana Regional</name>
+		<name>Texarkana Regional Airport</name>
 		<shortcode>TXK</shortcode>
 		<city>Texarkana</city>
 		<state>AR</state>
@@ -817,7 +817,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>South Arkansas Regional</name>
+		<name>South Arkansas Regional Airport</name>
 		<shortcode>ELD</shortcode>
 		<city>El Dorado</city>
 		<state>AR</state>
@@ -889,7 +889,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Los Angeles International</name>
+		<name>Los Angeles International Airport</name>
 		<shortcode>LAX</shortcode>
 		<city>Los Angeles</city>
 		<state>CA</state>
@@ -952,7 +952,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>San Francisco International</name>
+		<name>San Francisco International Airport</name>
 		<shortcode>SFO</shortcode>
 		<city>San Francisco</city>
 		<state>CA</state>
@@ -1061,7 +1061,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Oakland International</name>
+		<name>Oakland International Airport</name>
 		<shortcode>OAK</shortcode>
 		<city>Oakland</city>
 		<state>CA</state>
@@ -1084,7 +1084,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>LA/Ontario International</name>
+		<name>LA/Ontario International Airport</name>
 		<shortcode>ONT</shortcode>
 		<city>Ontario</city>
 		<state>CA</state>
@@ -1107,7 +1107,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>San Diego International</name>
+		<name>San Diego International Airport</name>
 		<shortcode>SAN</shortcode>
 		<city>San Diego</city>
 		<state>CA</state>
@@ -1145,7 +1145,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>San Jose International</name>
+		<name>San Jose International Airport</name>
 		<shortcode>SJC</shortcode>
 		<city>San Jose</city>
 		<state>CA</state>
@@ -1168,7 +1168,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Sacramento International</name>
+		<name>Sacramento International Airport</name>
 		<shortcode>SMF</shortcode>
 		<city>Sacramento</city>
 		<state>CA</state>
@@ -1214,7 +1214,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Fresno Yosemite International</name>
+		<name>Fresno Yosemite International Airport</name>
 		<shortcode>FAT</shortcode>
 		<city>Fresno</city>
 		<state>CA</state>
@@ -1232,7 +1232,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Palm Springs Regional</name>
+		<name>Palm Springs Regional Airport</name>
 		<shortcode>PSP</shortcode>
 		<city>Palm Springs</city>
 		<state>CA</state>
@@ -1386,7 +1386,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Stockton Regional</name>
+		<name>Stockton Regional Airport</name>
 		<shortcode>SCK</shortcode>
 		<city>Stockton</city>
 		<state>CA</state>
@@ -1584,7 +1584,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Palmdale Regional</name>
+		<name>Palmdale Regional Airport</name>
 		<shortcode>PMD</shortcode>
 		<city>Palmdale</city>
 		<state>CA</state>
@@ -1620,7 +1620,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Denver International</name>
+		<name>Denver International Airport</name>
 		<shortcode>DEN</shortcode>
 		<city>Denver</city>
 		<state>CO</state>
@@ -1702,7 +1702,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Eagle County Regional</name>
+		<name>Eagle County Regional Airport</name>
 		<shortcode>EGE</shortcode>
 		<city>Eagle</city>
 		<state>CO</state>
@@ -1738,7 +1738,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Grand Junction Regional</name>
+		<name>Grand Junction Regional Airport</name>
 		<shortcode>GJT</shortcode>
 		<city>Grand Junction</city>
 		<state>CO</state>
@@ -1864,7 +1864,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Telluride Regional</name>
+		<name>Telluride Regional Airport</name>
 		<shortcode>TEX</shortcode>
 		<city>Telluride</city>
 		<state>CO</state>
@@ -1882,7 +1882,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Bradley International</name>
+		<name>Bradley International Airport</name>
 		<shortcode>BDL</shortcode>
 		<city>Windsor Locks</city>
 		<state>CT</state>
@@ -1923,7 +1923,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Ft. Lauderdale-Hollywood International</name>
+		<name>Ft. Lauderdale-Hollywood International Airport</name>
 		<shortcode>FLL</shortcode>
 		<city>Fort Lauderdale</city>
 		<state>FL</state>
@@ -1966,7 +1966,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Orlando International</name>
+		<name>Orlando International Airport</name>
 		<shortcode>MCO</shortcode>
 		<city>Orlando</city>
 		<state>FL</state>
@@ -1999,7 +1999,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Miami International</name>
+		<name>Miami International Airport</name>
 		<shortcode>MIA</shortcode>
 		<city>Miami</city>
 		<state>FL</state>
@@ -2072,7 +2072,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Jacksonville International</name>
+		<name>Jacksonville International Airport</name>
 		<shortcode>JAX</shortcode>
 		<city>Jacksonville</city>
 		<state>FL</state>
@@ -2095,7 +2095,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>West Palm Beach International</name>
+		<name>West Palm Beach International Airport</name>
 		<shortcode>PBI</shortcode>
 		<city>West Palm Beach</city>
 		<state>FL</state>
@@ -2118,7 +2118,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Southwest Florida International</name>
+		<name>Southwest Florida International Airport</name>
 		<shortcode>RSW</shortcode>
 		<city>Fort Myers</city>
 		<state>FL</state>
@@ -2146,7 +2146,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Tampa International</name>
+		<name>Tampa International Airport</name>
 		<shortcode>TPA</shortcode>
 		<city>Tampa</city>
 		<state>FL</state>
@@ -2179,7 +2179,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Daytona Beach International</name>
+		<name>Daytona Beach International Airport</name>
 		<shortcode>DAB</shortcode>
 		<city>Daytona Beach</city>
 		<state>FL</state>
@@ -2197,7 +2197,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Key West International</name>
+		<name>Key West International Airport</name>
 		<shortcode>EYW</shortcode>
 		<city>Key West</city>
 		<state>FL</state>
@@ -2215,7 +2215,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Melbourne International</name>
+		<name>Melbourne International Airport</name>
 		<shortcode>MLB</shortcode>
 		<city>Melbourne</city>
 		<state>FL</state>
@@ -2233,7 +2233,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>St Petersburg-Clearwater International</name>
+		<name>St Petersburg-Clearwater International Airport</name>
 		<shortcode>PIE</shortcode>
 		<city>Clearwater</city>
 		<state>FL</state>
@@ -2256,7 +2256,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Pensacola Regional</name>
+		<name>Pensacola Regional Airport</name>
 		<shortcode>PNS</shortcode>
 		<city>Pensacola</city>
 		<state>FL</state>
@@ -2315,7 +2315,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Tallahassee Regional</name>
+		<name>Tallahassee Regional Airport</name>
 		<shortcode>TLH</shortcode>
 		<city>Tallahassee</city>
 		<state>FL</state>
@@ -2351,7 +2351,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Gainesville Regional</name>
+		<name>Gainesville Regional Airport</name>
 		<shortcode>GNV</shortcode>
 		<city>Gainesville</city>
 		<state>FL</state>
@@ -2369,7 +2369,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Panama City-Bay County International</name>
+		<name>Panama City-Bay County International Airport</name>
 		<shortcode>PFN</shortcode>
 		<city>Panama City</city>
 		<state>FL</state>
@@ -2423,7 +2423,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Hartsfield-Jackson Atlanta International</name>
+		<name>Hartsfield-Jackson Atlanta International Airport</name>
 		<shortcode>ATL</shortcode>
 		<city>Atlanta</city>
 		<state>GA</state>
@@ -2461,7 +2461,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Savannah / Hilton Head International</name>
+		<name>Savannah / Hilton Head International Airport</name>
 		<shortcode>SAV</shortcode>
 		<city>Savannah</city>
 		<state>GA</state>
@@ -2479,7 +2479,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Augusta Regional</name>
+		<name>Augusta Regional Airport</name>
 		<shortcode>AGS</shortcode>
 		<city>Augusta</city>
 		<state>GA</state>
@@ -2515,7 +2515,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Middle Georgia Regional</name>
+		<name>Middle Georgia Regional Airport</name>
 		<shortcode>MCN</shortcode>
 		<city>Macon</city>
 		<state>GA</state>
@@ -2551,7 +2551,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Southwest Georgia Regional</name>
+		<name>Southwest Georgia Regional Airport</name>
 		<shortcode>ABY</shortcode>
 		<city>Albany</city>
 		<state>GA</state>
@@ -2605,7 +2605,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Honolulu International</name>
+		<name>Honolulu International Airport</name>
 		<shortcode>HNL</shortcode>
 		<city>Honolulu</city>
 		<state>HI</state>
@@ -2732,7 +2732,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Hilo International</name>
+		<name>Hilo International Airport</name>
 		<shortcode>ITO</shortcode>
 		<city>Hilo</city>
 		<state>HI</state>
@@ -2858,7 +2858,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Pocatello Regional</name>
+		<name>Pocatello Regional Airport</name>
 		<shortcode>PIH</shortcode>
 		<city>Pocatello</city>
 		<state>ID</state>
@@ -2894,7 +2894,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Magic Valley Regional</name>
+		<name>Magic Valley Regional Airport</name>
 		<shortcode>TWF</shortcode>
 		<city>Twin Falls</city>
 		<state>ID</state>
@@ -2912,7 +2912,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Chicago-O'Hare International</name>
+		<name>Chicago-O'Hare International Airport</name>
 		<shortcode>ORD</shortcode>
 		<city>Chicago</city>
 		<state>IL</state>
@@ -3193,7 +3193,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Indianapolis International</name>
+		<name>Indianapolis International Airport</name>
 		<shortcode>IND</shortcode>
 		<city>Indianapolis</city>
 		<state>IN</state>
@@ -3234,7 +3234,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>South Bend Regional</name>
+		<name>South Bend Regional Airport</name>
 		<shortcode>SBN</shortcode>
 		<city>South Bend</city>
 		<state>IN</state>
@@ -3257,7 +3257,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Evansville Regional</name>
+		<name>Evansville Regional Airport</name>
 		<shortcode>EVV</shortcode>
 		<city>Evansville</city>
 		<state>IN</state>
@@ -3280,7 +3280,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Gary Regional</name>
+		<name>Gary Regional Airport</name>
 		<shortcode>GYY</shortcode>
 		<city>Gary</city>
 		<state>IN</state>
@@ -3316,7 +3316,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Des Moines International</name>
+		<name>Des Moines International Airport</name>
 		<shortcode>DSM</shortcode>
 		<city>Des Moines</city>
 		<state>IA</state>
@@ -3370,7 +3370,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Southeast Iowa Regional</name>
+		<name>Southeast Iowa Regional Airport</name>
 		<shortcode>BRL</shortcode>
 		<city>Burlington</city>
 		<state>IA</state>
@@ -3388,7 +3388,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Dubuque Regional</name>
+		<name>Dubuque Regional Airport</name>
 		<shortcode>DBQ</shortcode>
 		<city>Dubuque</city>
 		<state>IA</state>
@@ -3478,7 +3478,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Dodge City Regional</name>
+		<name>Dodge City Regional Airport</name>
 		<shortcode>DDC</shortcode>
 		<city>Dodge City</city>
 		<state>KS</state>
@@ -3532,7 +3532,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Hays Regional</name>
+		<name>Hays Regional Airport</name>
 		<shortcode>HYS</shortcode>
 		<city>Hays</city>
 		<state>KS</state>
@@ -3568,7 +3568,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Manhattan Regional</name>
+		<name>Manhattan Regional Airport</name>
 		<shortcode>MHK</shortcode>
 		<city>Manhattan</city>
 		<state>KS</state>
@@ -3604,7 +3604,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Cincinnati/Northern Kentucky International</name>
+		<name>Cincinnati/Northern Kentucky International Airport</name>
 		<shortcode>CVG</shortcode>
 		<city>Hebron</city>
 		<state>KY</state>
@@ -3632,7 +3632,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Louisville International</name>
+		<name>Louisville International Airport</name>
 		<shortcode>SDF</shortcode>
 		<city>Louisville</city>
 		<state>KY</state>
@@ -3686,7 +3686,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Barkley Regional</name>
+		<name>Barkley Regional Airport</name>
 		<shortcode>PAH</shortcode>
 		<city>West Paducah</city>
 		<state>KY</state>
@@ -3704,7 +3704,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lake Cumberland Regional</name>
+		<name>Lake Cumberland Regional Airport</name>
 		<shortcode>SME</shortcode>
 		<city>Somerset</city>
 		<state>KY</state>
@@ -3722,7 +3722,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Louis Armstrong New Orleans International</name>
+		<name>Louis Armstrong New Orleans International Airport</name>
 		<shortcode>MSY</shortcode>
 		<city>Kenner</city>
 		<state>LA</state>
@@ -3773,7 +3773,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Shreveport Regional</name>
+		<name>Shreveport Regional Airport</name>
 		<shortcode>SHV</shortcode>
 		<city>Shreveport</city>
 		<state>LA</state>
@@ -3796,7 +3796,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lafayette Regional</name>
+		<name>Lafayette Regional Airport</name>
 		<shortcode>LFT</shortcode>
 		<city>Lafayette</city>
 		<state>LA</state>
@@ -3814,7 +3814,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Alexandria International</name>
+		<name>Alexandria International Airport</name>
 		<shortcode>AEX</shortcode>
 		<city>Alexandria</city>
 		<state>LA</state>
@@ -3832,7 +3832,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lake Charles Regional</name>
+		<name>Lake Charles Regional Airport</name>
 		<shortcode>LCH</shortcode>
 		<city>Lake Charles</city>
 		<state>LA</state>
@@ -3850,7 +3850,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Monroe Regional</name>
+		<name>Monroe Regional Airport</name>
 		<shortcode>MLU</shortcode>
 		<city>Monroe</city>
 		<state>LA</state>
@@ -3868,7 +3868,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Bangor International</name>
+		<name>Bangor International Airport</name>
 		<shortcode>BGR</shortcode>
 		<city>Bangor</city>
 		<state>ME</state>
@@ -3950,7 +3950,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Northern Maine Regional</name>
+		<name>Northern Maine Regional Airport</name>
 		<shortcode>PQI</shortcode>
 		<city>Presque Isle</city>
 		<state>ME</state>
@@ -3968,7 +3968,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Knox County Regional</name>
+		<name>Knox County Regional Airport</name>
 		<shortcode>RKD</shortcode>
 		<city>Rockland</city>
 		<state>ME</state>
@@ -3986,7 +3986,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Baltimore-Washington International</name>
+		<name>Baltimore-Washington International Airport</name>
 		<shortcode>BWI</shortcode>
 		<city>BWI Airport</city>
 		<state>MD</state>
@@ -4024,7 +4024,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Hagerstown Regional</name>
+		<name>Hagerstown Regional Airport</name>
 		<shortcode>HGR</shortcode>
 		<city>Hagerstown</city>
 		<state>MD</state>
@@ -4042,7 +4042,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Salisbury / Wicomico County Regional</name>
+		<name>Salisbury / Wicomico County Regional Airport</name>
 		<shortcode>SBY</shortcode>
 		<city>Salisbury</city>
 		<state>MD</state>
@@ -4060,7 +4060,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Logan International</name>
+		<name>Logan International Airport</name>
 		<shortcode>BOS</shortcode>
 		<city>East Boston</city>
 		<state>MA</state>
@@ -4312,7 +4312,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Bishop International</name>
+		<name>Bishop International Airport</name>
 		<shortcode>FNT</shortcode>
 		<city>Flint</city>
 		<state>MI</state>
@@ -4330,7 +4330,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Kent County International</name>
+		<name>Kent County International Airport</name>
 		<shortcode>GRR</shortcode>
 		<city>Grand Rapids</city>
 		<state>MI</state>
@@ -4389,7 +4389,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>MBS International</name>
+		<name>MBS International Airport</name>
 		<shortcode>MBS</shortcode>
 		<city>Freeland</city>
 		<state>MI</state>
@@ -4425,7 +4425,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Alpena County Regional</name>
+		<name>Alpena County Regional Airport</name>
 		<shortcode>APN</shortcode>
 		<city>Alpena</city>
 		<state>MI</state>
@@ -4443,7 +4443,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Chippewa County International</name>
+		<name>Chippewa County International Airport</name>
 		<shortcode>CIU</shortcode>
 		<city>Kincheloe</city>
 		<state>MI</state>
@@ -4551,7 +4551,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Muskegon County International</name>
+		<name>Muskegon County International Airport</name>
 		<shortcode>MKG</shortcode>
 		<city>Muskegon</city>
 		<state>MI</state>
@@ -4569,7 +4569,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Pellston Regional</name>
+		<name>Pellston Regional Airport</name>
 		<shortcode>PLN</shortcode>
 		<city>Pellston</city>
 		<state>MI</state>
@@ -4587,7 +4587,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Sawyer International</name>
+		<name>Sawyer International Airport</name>
 		<shortcode>SAW</shortcode>
 		<city>Gwinn</city>
 		<state>MI</state>
@@ -4623,7 +4623,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Minneapolis-St. Paul International</name>
+		<name>Minneapolis-St. Paul International Airport</name>
 		<shortcode>MSP</shortcode>
 		<city>St. Paul</city>
 		<state>MN</state>
@@ -4681,7 +4681,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Duluth International</name>
+		<name>Duluth International Airport</name>
 		<shortcode>DLH</shortcode>
 		<city>Duluth</city>
 		<state>MN</state>
@@ -4704,7 +4704,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Rochester International</name>
+		<name>Rochester International Airport</name>
 		<shortcode>RST</shortcode>
 		<city>Rochester</city>
 		<state>MN</state>
@@ -4740,7 +4740,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Brainerd Lakes Regional</name>
+		<name>Brainerd Lakes Regional Airport</name>
 		<shortcode>BRD</shortcode>
 		<city>Brainerd</city>
 		<state>MN</state>
@@ -4758,7 +4758,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Falls International</name>
+		<name>Falls International Airport</name>
 		<shortcode>INL</shortcode>
 		<city>International Falls</city>
 		<state>MN</state>
@@ -4776,7 +4776,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>St. Cloud Regional</name>
+		<name>St. Cloud Regional Airport</name>
 		<shortcode>STC</shortcode>
 		<city>St. Cloud</city>
 		<state>MN</state>
@@ -4794,7 +4794,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Thief River Falls Regional</name>
+		<name>Thief River Falls Regional Airport</name>
 		<shortcode>TVF</shortcode>
 		<city>Thief River Falls</city>
 		<state>MN</state>
@@ -4812,7 +4812,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Gulfport Bilox Regional</name>
+		<name>Gulfport Bilox Regional Airport</name>
 		<shortcode>GPT</shortcode>
 		<city>Gulfport</city>
 		<state>MS</state>
@@ -4830,7 +4830,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Jackson International</name>
+		<name>Jackson International Airport</name>
 		<shortcode>JAN</shortcode>
 		<city>Jackson</city>
 		<state>MS</state>
@@ -4889,7 +4889,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Golden Triangle Regional</name>
+		<name>Golden Triangle Regional Airport</name>
 		<shortcode>GTR</shortcode>
 		<city>Columbus</city>
 		<state>MS</state>
@@ -4925,7 +4925,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Pine-belt Regional</name>
+		<name>Pine-belt Regional Airport</name>
 		<shortcode>PIB</shortcode>
 		<city>Moselle</city>
 		<state>MS</state>
@@ -4961,7 +4961,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lambert St. Louis International</name>
+		<name>Lambert St. Louis International Airport</name>
 		<shortcode>STL</shortcode>
 		<city>St Louis</city>
 		<state>MO</state>
@@ -4994,7 +4994,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Kansas City International</name>
+		<name>Kansas City International Airport</name>
 		<shortcode>MCI</shortcode>
 		<city>Kansas City</city>
 		<state>MO</state>
@@ -5100,7 +5100,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Cape Girardeau Regional</name>
+		<name>Cape Girardeau Regional Airport</name>
 		<shortcode>CGI</shortcode>
 		<city>Cape Girardeau</city>
 		<state>MO</state>
@@ -5118,7 +5118,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Columbia Regional</name>
+		<name>Columbia Regional Airport</name>
 		<shortcode>COU</shortcode>
 		<city>Columbia</city>
 		<state>MO</state>
@@ -5136,7 +5136,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Kirksville Regional</name>
+		<name>Kirksville Regional Airport</name>
 		<shortcode>IRK</shortcode>
 		<city>Kirksville</city>
 		<state>MO</state>
@@ -5154,7 +5154,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Joplin Regional</name>
+		<name>Joplin Regional Airport</name>
 		<shortcode>JLN</shortcode>
 		<city>Joplin</city>
 		<state>MO</state>
@@ -5280,7 +5280,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Missoula International</name>
+		<name>Missoula International Airport</name>
 		<shortcode>MSO</shortcode>
 		<city>Missoula</city>
 		<state>MT</state>
@@ -5298,7 +5298,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Glacier Park International</name>
+		<name>Glacier Park International Airport</name>
 		<shortcode>GPI</shortcode>
 		<city>Kalispell</city>
 		<state>MT</state>
@@ -5316,7 +5316,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Great Falls International</name>
+		<name>Great Falls International Airport</name>
 		<shortcode>GTF</shortcode>
 		<city>Great Falls</city>
 		<state>MT</state>
@@ -5339,7 +5339,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Helena Regional</name>
+		<name>Helena Regional Airport</name>
 		<shortcode>HLN</shortcode>
 		<city>Helena</city>
 		<state>MT</state>
@@ -5429,7 +5429,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Sidney-Richland Regional</name>
+		<name>Sidney-Richland Regional Airport</name>
 		<shortcode>SDY</shortcode>
 		<city>Sidney</city>
 		<state>MT</state>
@@ -5583,7 +5583,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Central Nebraska Regional</name>
+		<name>Central Nebraska Regional Airport</name>
 		<shortcode>GRI</shortcode>
 		<city>Grand Island</city>
 		<state>NE</state>
@@ -5601,7 +5601,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>North Platte Regional</name>
+		<name>North Platte Regional Airport</name>
 		<shortcode>LBF</shortcode>
 		<city>North Platte</city>
 		<state>NE</state>
@@ -5637,7 +5637,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>McCarran International</name>
+		<name>McCarran International Airport</name>
 		<shortcode>LAS</shortcode>
 		<city>Las Vegas</city>
 		<state>NV</state>
@@ -5685,7 +5685,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Reno/Tahoe International</name>
+		<name>Reno/Tahoe International Airport</name>
 		<shortcode>RNO</shortcode>
 		<city>Reno</city>
 		<state>NV</state>
@@ -5808,7 +5808,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Newark International</name>
+		<name>Newark International Airport</name>
 		<shortcode>EWR</shortcode>
 		<city>Newark</city>
 		<state>NJ</state>
@@ -5866,7 +5866,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Atlantic City International</name>
+		<name>Atlantic City International Airport</name>
 		<shortcode>ACY</shortcode>
 		<city>Atlantic City</city>
 		<state>NJ</state>
@@ -5902,7 +5902,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Four Corners Regional</name>
+		<name>Four Corners Regional Airport</name>
 		<shortcode>FMN</shortcode>
 		<city>Farmington</city>
 		<state>NM</state>
@@ -5956,7 +5956,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>John F. Kennedy International</name>
+		<name>John F. Kennedy International Airport</name>
 		<shortcode>JFK</shortcode>
 		<city>Jamaica</city>
 		<state>NY</state>
@@ -6185,7 +6185,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Syracuse-Hancock International</name>
+		<name>Syracuse-Hancock International Airport</name>
 		<shortcode>SYR</shortcode>
 		<city>North Syracuse</city>
 		<state>NY</state>
@@ -6208,7 +6208,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Binghamton Regional</name>
+		<name>Binghamton Regional Airport</name>
 		<shortcode>BGM</shortcode>
 		<city>Johnson City</city>
 		<state>NY</state>
@@ -6226,7 +6226,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Elmira-Corning Regional</name>
+		<name>Elmira-Corning Regional Airport</name>
 		<shortcode>ELM</shortcode>
 		<city>Horseheads</city>
 		<state>NY</state>
@@ -6244,7 +6244,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Niagara Falls International</name>
+		<name>Niagara Falls International Airport</name>
 		<shortcode>IAG</shortcode>
 		<city>Niagara Falls</city>
 		<state>NY</state>
@@ -6262,7 +6262,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Plattsburg International</name>
+		<name>Plattsburg International Airport</name>
 		<shortcode>PBG</shortcode>
 		<city>Plattsburgh</city>
 		<state>NY</state>
@@ -6316,7 +6316,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Watertown International</name>
+		<name>Watertown International Airport</name>
 		<shortcode>ART</shortcode>
 		<city>Dexter</city>
 		<state>NY</state>
@@ -6388,7 +6388,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Massena International</name>
+		<name>Massena International Airport</name>
 		<shortcode>MSS</shortcode>
 		<city>Massena</city>
 		<state>NY</state>
@@ -6406,7 +6406,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Ogdensburg International</name>
+		<name>Ogdensburg International Airport</name>
 		<shortcode>OGS</shortcode>
 		<city>Ogdensburg</city>
 		<state>NY</state>
@@ -6424,7 +6424,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Adirondack Regional</name>
+		<name>Adirondack Regional Airport</name>
 		<shortcode>SLK</shortcode>
 		<city>Saranac Lake</city>
 		<state>NY</state>
@@ -6442,7 +6442,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Charlotte Douglas International</name>
+		<name>Charlotte Douglas International Airport</name>
 		<shortcode>CLT</shortcode>
 		<city>Charlotte</city>
 		<state>NC</state>
@@ -6475,7 +6475,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Piedmont Triad International</name>
+		<name>Piedmont Triad International Airport</name>
 		<shortcode>GSO</shortcode>
 		<city>Greensboro</city>
 		<state>NC</state>
@@ -6498,7 +6498,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Raleigh-Durham International</name>
+		<name>Raleigh-Durham International Airport</name>
 		<shortcode>RDU</shortcode>
 		<city>RDU Airport</city>
 		<state>NC</state>
@@ -6521,7 +6521,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Asheville Regional</name>
+		<name>Asheville Regional Airport</name>
 		<shortcode>AVL</shortcode>
 		<city>Fletcher</city>
 		<state>NC</state>
@@ -6539,7 +6539,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Wilmington International</name>
+		<name>Wilmington International Airport</name>
 		<shortcode>ILM</shortcode>
 		<city>Wilmington</city>
 		<state>NC</state>
@@ -6557,7 +6557,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Coastal Carolina Regional</name>
+		<name>Coastal Carolina Regional Airport</name>
 		<shortcode>EWN</shortcode>
 		<city>New Bern</city>
 		<state>NC</state>
@@ -6575,7 +6575,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Fayetteville Regional</name>
+		<name>Fayetteville Regional Airport</name>
 		<shortcode>FAY</shortcode>
 		<city>Fayetteville</city>
 		<state>NC</state>
@@ -6647,7 +6647,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Hector International</name>
+		<name>Hector International Airport</name>
 		<shortcode>FAR</shortcode>
 		<city>Fargo</city>
 		<state>ND</state>
@@ -6683,7 +6683,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Grand Forks International</name>
+		<name>Grand Forks International Airport</name>
 		<shortcode>GFK</shortcode>
 		<city>Grand Forks</city>
 		<state>ND</state>
@@ -6701,7 +6701,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Minot International</name>
+		<name>Minot International Airport</name>
 		<shortcode>MOT</shortcode>
 		<city>Minot</city>
 		<state>ND</state>
@@ -6719,7 +6719,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Dickinson Regional</name>
+		<name>Dickinson Regional Airport</name>
 		<shortcode>DIK</shortcode>
 		<city>Dickinson</city>
 		<state>ND</state>
@@ -6755,7 +6755,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Sloulin Field International</name>
+		<name>Sloulin Field International Airport</name>
 		<shortcode>ISN</shortcode>
 		<city>Williston</city>
 		<state>ND</state>
@@ -6791,7 +6791,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Cleveland Hopkins International</name>
+		<name>Cleveland Hopkins International Airport</name>
 		<shortcode>CLE</shortcode>
 		<city>Cleveland</city>
 		<state>OH</state>
@@ -6824,7 +6824,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Port Columbus International</name>
+		<name>Port Columbus International Airport</name>
 		<shortcode>CMH</shortcode>
 		<city>Columbus</city>
 		<state>OH</state>
@@ -6852,7 +6852,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>James M. Cox Dayton International</name>
+		<name>James M. Cox Dayton International Airport</name>
 		<shortcode>DAY</shortcode>
 		<city>Dayton</city>
 		<state>OH</state>
@@ -6870,7 +6870,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Akron-Canton Regional</name>
+		<name>Akron-Canton Regional Airport</name>
 		<shortcode>CAK</shortcode>
 		<city>North Canton</city>
 		<state>OH</state>
@@ -6906,7 +6906,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Rickenbacker International</name>
+		<name>Rickenbacker International Airport</name>
 		<shortcode>LCK</shortcode>
 		<city>Columbus</city>
 		<state>OH</state>
@@ -6924,7 +6924,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Youngstown-Warren Regional</name>
+		<name>Youngstown-Warren Regional Airport</name>
 		<shortcode>YNG</shortcode>
 		<city>Vienna</city>
 		<state>OH</state>
@@ -6965,7 +6965,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Tulsa International</name>
+		<name>Tulsa International Airport</name>
 		<shortcode>TUL</shortcode>
 		<city>Tulsa</city>
 		<state>OK</state>
@@ -7001,7 +7001,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Portland International</name>
+		<name>Portland International Airport</name>
 		<shortcode>PDX</shortcode>
 		<city>Portland</city>
 		<state>OR</state>
@@ -7155,7 +7155,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Saipan International</name>
+		<name>Saipan International Airport</name>
 		<shortcode>GSN</shortcode>
 		<city>Fadang</city>
 		<state>MP</state>
@@ -7173,7 +7173,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Rota International</name>
+		<name>Rota International Airport</name>
 		<shortcode>GRO</shortcode>
 		<city>Sinapalu</city>
 		<state>MP</state>
@@ -7191,7 +7191,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Philadelphia International</name>
+		<name>Philadelphia International Airport</name>
 		<shortcode>PHL</shortcode>
 		<city>Philadelphia</city>
 		<state>PA</state>
@@ -7239,7 +7239,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Pittsburgh International</name>
+		<name>Pittsburgh International Airport</name>
 		<shortcode>PIT</shortcode>
 		<city>Pittsburgh</city>
 		<state>PA</state>
@@ -7267,7 +7267,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lehigh Valley International</name>
+		<name>Lehigh Valley International Airport</name>
 		<shortcode>ABE</shortcode>
 		<city>Allentown</city>
 		<state>PA</state>
@@ -7285,7 +7285,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Harrisburg International</name>
+		<name>Harrisburg International Airport</name>
 		<shortcode>MDT</shortcode>
 		<city>Middletown</city>
 		<state>PA</state>
@@ -7303,7 +7303,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Wilkes Barre/Scranton International</name>
+		<name>Wilkes Barre/Scranton International Airport</name>
 		<shortcode>AVP</shortcode>
 		<city>Avoca</city>
 		<state>PA</state>
@@ -7321,7 +7321,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Erie International</name>
+		<name>Erie International Airport</name>
 		<shortcode>ERI</shortcode>
 		<city>Erie</city>
 		<state>PA</state>
@@ -7357,7 +7357,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Bradford Regional</name>
+		<name>Bradford Regional Airport</name>
 		<shortcode>BFD</shortcode>
 		<city>Lewis Run</city>
 		<state>PA</state>
@@ -7393,7 +7393,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Venango Regional</name>
+		<name>Venango Regional Airport</name>
 		<shortcode>FKL</shortcode>
 		<city>Franklin</city>
 		<state>PA</state>
@@ -7483,7 +7483,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Reading Regional</name>
+		<name>Reading Regional Airport</name>
 		<shortcode>RDG</shortcode>
 		<city>Reading</city>
 		<state>PA</state>
@@ -7519,7 +7519,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Luis Munoz Marin International</name>
+		<name>Luis Munoz Marin International Airport</name>
 		<shortcode>SJU</shortcode>
 		<city>San Juan</city>
 		<state>PR</state>
@@ -7647,7 +7647,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Greenville-Spartanburg International</name>
+		<name>Greenville-Spartanburg International Airport</name>
 		<shortcode>GSP</shortcode>
 		<city>Greer</city>
 		<state>SC</state>
@@ -7670,7 +7670,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Myrtle Beach International</name>
+		<name>Myrtle Beach International Airport</name>
 		<shortcode>MYR</shortcode>
 		<city>Myrtle Beach</city>
 		<state>SC</state>
@@ -7706,7 +7706,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Florence Regional</name>
+		<name>Florence Regional Airport</name>
 		<shortcode>FLO</shortcode>
 		<city>Florence</city>
 		<state>SC</state>
@@ -7742,7 +7742,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Rapid City Regional</name>
+		<name>Rapid City Regional Airport</name>
 		<shortcode>RAP</shortcode>
 		<city>Rapid City</city>
 		<state>SD</state>
@@ -7760,7 +7760,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Aberdeen Regional</name>
+		<name>Aberdeen Regional Airport</name>
 		<shortcode>ABR</shortcode>
 		<city>Aberdeen</city>
 		<state>SD</state>
@@ -7814,7 +7814,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Pierre Regional</name>
+		<name>Pierre Regional Airport</name>
 		<shortcode>PIR</shortcode>
 		<city>Pierre</city>
 		<state>SD</state>
@@ -7832,7 +7832,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Nashville International</name>
+		<name>Nashville International Airport</name>
 		<shortcode>BNA</shortcode>
 		<city>Nashville</city>
 		<state>TN</state>
@@ -7860,7 +7860,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Memphis International</name>
+		<name>Memphis International Airport</name>
 		<shortcode>MEM</shortcode>
 		<city>Memphis</city>
 		<state>TN</state>
@@ -7929,7 +7929,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Tri Cities Regional</name>
+		<name>Tri Cities Regional Airport</name>
 		<shortcode>TRI</shortcode>
 		<city>Blountville</city>
 		<state>TN</state>
@@ -7947,7 +7947,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>McKellar-Sipes Regional</name>
+		<name>McKellar-Sipes Regional Airport</name>
 		<shortcode>MKL</shortcode>
 		<city>Jackson</city>
 		<state>TN</state>
@@ -7965,7 +7965,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Dallas/Fort Worth International</name>
+		<name>Dallas/Fort Worth International Airport</name>
 		<shortcode>DFW</shortcode>
 		<city>DFW Airport</city>
 		<state>TX</state>
@@ -8126,7 +8126,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Austin-Bergstrom International</name>
+		<name>Austin-Bergstrom International Airport</name>
 		<shortcode>AUS</shortcode>
 		<city>Austin</city>
 		<state>TX</state>
@@ -8182,7 +8182,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>El Paso International</name>
+		<name>El Paso International Airport</name>
 		<shortcode>ELP</shortcode>
 		<city>El Paso</city>
 		<state>TX</state>
@@ -8218,7 +8218,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>San Antonio International</name>
+		<name>San Antonio International Airport</name>
 		<shortcode>SAT</shortcode>
 		<city>San Antonio</city>
 		<state>TX</state>
@@ -8241,7 +8241,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Amarillo International</name>
+		<name>Amarillo International Airport</name>
 		<shortcode>AMA</shortcode>
 		<city>Amarillo</city>
 		<state>TX</state>
@@ -8277,7 +8277,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Rio Grande Valley International</name>
+		<name>Rio Grande Valley International Airport</name>
 		<shortcode>HRL</shortcode>
 		<city>Harlingen</city>
 		<state>TX</state>
@@ -8295,7 +8295,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lubbock International</name>
+		<name>Lubbock International Airport</name>
 		<shortcode>LBB</shortcode>
 		<city>Lubbock</city>
 		<state>TX</state>
@@ -8313,7 +8313,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Midland International</name>
+		<name>Midland International Airport</name>
 		<shortcode>MAF</shortcode>
 		<city>Midland</city>
 		<state>TX</state>
@@ -8331,7 +8331,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Miller International</name>
+		<name>Miller International Airport</name>
 		<shortcode>MFE</shortcode>
 		<city>McAllen</city>
 		<state>TX</state>
@@ -8349,7 +8349,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Abilene Regional</name>
+		<name>Abilene Regional Airport</name>
 		<shortcode>ABI</shortcode>
 		<city>Abilene</city>
 		<state>TX</state>
@@ -8367,7 +8367,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Waco Regional</name>
+		<name>Waco Regional Airport</name>
 		<shortcode>ACT</shortcode>
 		<city>Waco</city>
 		<state>TX</state>
@@ -8385,7 +8385,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Brownsville/South Padre International</name>
+		<name>Brownsville/South Padre International Airport</name>
 		<shortcode>BRO</shortcode>
 		<city>Brownsville</city>
 		<state>TX</state>
@@ -8421,7 +8421,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Killeen-Ft. Hood Regional</name>
+		<name>Killeen-Ft. Hood Regional Airport</name>
 		<shortcode>GRK</shortcode>
 		<city>Killeen</city>
 		<state>TX</state>
@@ -8444,7 +8444,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Laredo International</name>
+		<name>Laredo International Airport</name>
 		<shortcode>LRD</shortcode>
 		<city>Laredo</city>
 		<state>TX</state>
@@ -8516,7 +8516,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Del Rio International</name>
+		<name>Del Rio International Airport</name>
 		<shortcode>DRT</shortcode>
 		<city>Del Rio</city>
 		<state>TX</state>
@@ -8570,7 +8570,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Victoria Regional</name>
+		<name>Victoria Regional Airport</name>
 		<shortcode>VCT</shortcode>
 		<city>Victoria</city>
 		<state>TX</state>
@@ -8588,7 +8588,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>A.B. Won Pat International</name>
+		<name>A.B. Won Pat International Airport</name>
 		<shortcode>GUM</shortcode>
 		<city>Tamuning</city>
 		<state>GU</state>
@@ -8624,7 +8624,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Salt Lake City International</name>
+		<name>Salt Lake City International Airport</name>
 		<shortcode>SLC</shortcode>
 		<city>Salt Lake City</city>
 		<state>UT</state>
@@ -8724,7 +8724,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Vernal Regional</name>
+		<name>Vernal Regional Airport</name>
 		<shortcode>VEL</shortcode>
 		<city>Vernal</city>
 		<state>UT</state>
@@ -8742,7 +8742,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Burlington International</name>
+		<name>Burlington International Airport</name>
 		<shortcode>BTV</shortcode>
 		<city>South Burlington</city>
 		<state>VT</state>
@@ -8783,7 +8783,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Cyril E. King International</name>
+		<name>Cyril E. King International Airport</name>
 		<shortcode>STT</shortcode>
 		<city>St Thomas</city>
 		<state>VI</state>
@@ -8867,7 +8867,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Washington-Dulles International</name>
+		<name>Washington-Dulles International Airport</name>
 		<shortcode>IAD</shortcode>
 		<city>Washington, DC</city>
 		<state>VA</state>
@@ -8905,7 +8905,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Norfolk International</name>
+		<name>Norfolk International Airport</name>
 		<shortcode>ORF</shortcode>
 		<city>Norfolk</city>
 		<state>VA</state>
@@ -8928,7 +8928,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Richmond International</name>
+		<name>Richmond International Airport</name>
 		<shortcode>RIC</shortcode>
 		<city>Sandston</city>
 		<state>VA</state>
@@ -8951,7 +8951,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Newport News/Williamsburg International</name>
+		<name>Newport News/Williamsburg International Airport</name>
 		<shortcode>PHF</shortcode>
 		<city>Newport News</city>
 		<state>VA</state>
@@ -9005,7 +9005,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lynchburg Regional</name>
+		<name>Lynchburg Regional Airport</name>
 		<shortcode>LYH</shortcode>
 		<city>Lynchburg</city>
 		<state>VA</state>
@@ -9023,7 +9023,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Shenandoah Valley Regional</name>
+		<name>Shenandoah Valley Regional Airport</name>
 		<shortcode>SHD</shortcode>
 		<city>Weyers Cave</city>
 		<state>VA</state>
@@ -9167,7 +9167,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Seattle-Tacoma International</name>
+		<name>Seattle-Tacoma International Airport</name>
 		<shortcode>SEA</shortcode>
 		<city>Seattle</city>
 		<state>WA</state>
@@ -9205,7 +9205,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Spokane International</name>
+		<name>Spokane International Airport</name>
 		<shortcode>GEG</shortcode>
 		<city>Spokane</city>
 		<state>WA</state>
@@ -9228,7 +9228,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Walla Walla Regional</name>
+		<name>Walla Walla Regional Airport</name>
 		<shortcode>ALW</shortcode>
 		<city>Walla Walla</city>
 		<state>WA</state>
@@ -9246,7 +9246,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Bellingham International</name>
+		<name>Bellingham International Airport</name>
 		<shortcode>BLI</shortcode>
 		<city>Bellingham</city>
 		<state>WA</state>
@@ -9300,7 +9300,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Pullman-Moscow Regional</name>
+		<name>Pullman-Moscow Regional Airport</name>
 		<shortcode>PUW</shortcode>
 		<city>Pullman</city>
 		<state>WA</state>
@@ -9336,7 +9336,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>General Mitchell International</name>
+		<name>General Mitchell International Airport</name>
 		<shortcode>MKE</shortcode>
 		<city>Milwaukee</city>
 		<state>WI</state>
@@ -9405,7 +9405,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Dane County Regional</name>
+		<name>Dane County Regional Airport</name>
 		<shortcode>MSN</shortcode>
 		<city>Madison</city>
 		<state>WI</state>
@@ -9428,7 +9428,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Central Wisconsin Regional</name>
+		<name>Central Wisconsin Regional Airport</name>
 		<shortcode>CWA</shortcode>
 		<city>Mosinee</city>
 		<state>WI</state>
@@ -9464,7 +9464,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Chippewa Valley Regional</name>
+		<name>Chippewa Valley Regional Airport</name>
 		<shortcode>EAU</shortcode>
 		<city>Eau Claire</city>
 		<state>WI</state>
@@ -9500,7 +9500,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Natrona County International</name>
+		<name>Natrona County International Airport</name>
 		<shortcode>CPR</shortcode>
 		<city>Casper</city>
 		<state>WY</state>
@@ -9536,7 +9536,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Yellowstone Regional</name>
+		<name>Yellowstone Regional Airport</name>
 		<shortcode>COD</shortcode>
 		<city>Cody</city>
 		<state>WY</state>
@@ -9554,7 +9554,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Cheyenne Regional</name>
+		<name>Cheyenne Regional Airport</name>
 		<shortcode>CYS</shortcode>
 		<city>Cheyenne</city>
 		<state>WY</state>
@@ -9590,7 +9590,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Laramine Regional</name>
+		<name>Laramine Regional Airport</name>
 		<shortcode>LAR</shortcode>
 		<city>Laramie</city>
 		<state>WY</state>
@@ -9608,7 +9608,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Riverton Regional</name>
+		<name>Riverton Regional Airport</name>
 		<shortcode>RIW</shortcode>
 		<city>Riverton</city>
 		<state>WY</state>
@@ -9716,7 +9716,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Northwest Florida Beaches International</name>
+		<name>Northwest Florida Beaches International Airport</name>
 		<shortcode>ECP</shortcode>
 		<city>Panama City Beach</city>
 		<state>FL</state>
@@ -9806,7 +9806,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Stillwater Regional</name>
+		<name>Stillwater Regional Airport</name>
 		<shortcode>SWO</shortcode>
 		<city>Stillwater</city>
 		<state>OK</state>
@@ -9824,7 +9824,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Ocala International</name>
+		<name>Ocala International Airport</name>
 		<shortcode>OCF</shortcode>
 		<city>Ocala</city>
 		<state>FL</state>
@@ -9842,7 +9842,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Bowling Green - Warren County Regional</name>
+		<name>Bowling Green - Warren County Regional Airport</name>
 		<shortcode>BWG</shortcode>
 		<city>Bowling Green</city>
 		<state>KY</state>
@@ -9896,7 +9896,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Alexandria Esler Regional</name>
+		<name>Alexandria Esler Regional Airport</name>
 		<shortcode>ESF</shortcode>
 		<city>Alexandria</city>
 		<state>LA</state>
@@ -10040,7 +10040,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Glacier Park International</name>
+		<name>Glacier Park International Airport</name>
 		<shortcode>FCA</shortcode>
 		<city>Kalispell</city>
 		<state>MT</state>
@@ -10076,7 +10076,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Lea County Regional</name>
+		<name>Lea County Regional Airport</name>
 		<shortcode>HOB</shortcode>
 		<city>Hobbs</city>
 		<state>NM</state>
@@ -10148,7 +10148,7 @@
 		</checkpoints>
 	</airport>
 	<airport>
-		<name>Tuscaloosa Regional</name>
+		<name>Tuscaloosa Regional Airport</name>
 		<shortcode>TCL</shortcode>
 		<city>Tuscaloosa</city>
 		<state>AL</state>
