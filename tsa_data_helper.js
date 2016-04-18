@@ -31,8 +31,59 @@ http://apps.tsa.dhs.gov/MyTSAWebService/GetWaitTimes.ashx?ap=DCA
 
 var _ = require('lodash');
 var rp = require('request-promise');
-var ENDPOINT = ''
+var ENDPOINT = 'http://apps.tsa.dhs.gov/MyTSAWebService/GetWaitTimes.ashx?ap=' // where 'ap' is the three character airport_code
 
 function TSADataHelper() { }
+	 /*
+	https://davidwalsh.name/convert-xml-json
+
+	TSA's API states it supports JSON, but only XML appears to work.
+
+	Might need to look into switching from XML to JSON, as JSON is a little easier to deal with.
+	 */
+
+TSADataHelper.prototype.requestAirportWaitTime = function(airportCode){
+	return this.getAirportWaitTime(airportCode).then(
+		function(response) {
+			console.log('success - received airport wait time for ' + airportCode);
+			// I get a response from the TSA website for the request
+			console.log(response.body); // FIXME: I put this in to see what's going on. Take out later.
+			return response.body;
+		}
+	);
+};
+
+TSADataHelper.prototype.getAirportWaitTime = function(airportCode) {
+	// TODO: this is the method I need to tweak.
+	var options = {
+		method: 'GET',
+		uri: ENDPOINT + airportCode + '&output=json',
+		resolveWithFullResponse: true,
+		json: true
+	};
+	return rp(options);
+}
 
 module.exports = TSADataHelper;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
