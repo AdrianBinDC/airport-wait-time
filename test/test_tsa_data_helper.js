@@ -13,7 +13,7 @@ describe('TSADataHelper', function() {
 	var airport_code;
 	describe('#getAirportWaitTime', function() {
 		context('with a valid airport code', function() {
-			it('returns a matching airport code', function() {
+			it('returns json', function() {
 				// airport_code is specified
 				airport_code = 'SFO';
 				// ...and then fed to requestAirportWaitTime
@@ -23,7 +23,8 @@ describe('TSADataHelper', function() {
 					// return obj.IATA; // Original demo code return value
 					// console.log('var value ' + value)
 				});
-				return expect(value).to.eventually.eq(airport_code);
+				// return expect(value).to.eventually.eq(airport_code); // original code
+				return expect(value).to.be.json; // tests if it's a json response
 			})
 		})
 	})
